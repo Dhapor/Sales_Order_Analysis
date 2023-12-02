@@ -1,2 +1,2 @@
 # Sales_Order_Analysis
-This repository contains SQL scripts for analyzing sales orders in a relational database. It includes table creations for customers, products, and orders, as well as sample data inserts.
+This repository contains SQL scripts for analyzing sales orders in a relational database. It includes table creations for customers, products, and orders, as well as sample data inserts. The provided SQL queries answer various business questions related to customer orders, product sales, and order analysis. The README file provides a clear and concise guide on how to set up the database and run the queries for sales order analysis.
